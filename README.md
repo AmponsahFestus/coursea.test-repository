@@ -1,1 +1,1 @@
-# coursea.test-repository
+# coursera.test-repository
